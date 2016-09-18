@@ -3,7 +3,7 @@ from ckeditor.widgets import CKEditorWidget
 from django.contrib import admin
 from django.db import models
 
-from .models import Block, BlockFile, BlockImage, SubBlock
+from ..models import Block, BlockFile, BlockImage, SubBlock
 
 
 class BlockFileInline(SortableInlineAdminMixin,
