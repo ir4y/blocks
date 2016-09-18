@@ -1,0 +1,6 @@
+django
+django-admin-sortable2
+django-ckeditor
+dj-database-url
+Pillow
+psycopg2
