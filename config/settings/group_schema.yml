@@ -1,0 +1,34 @@
+News:
+  verbose_name_plural: Newses
+  group: news
+  ordering: false
+  can_add: true
+  wysiwyg: true
+  has_images: false
+  has_files: false
+  has_subblock: true
+Note:
+  group: notes
+  ordering: true
+  can_add: true
+  wysiwyg: false
+  has_images: false
+  has_files: false
+  has_subblock: true
+Gallery:
+  verbose_name_plural: Galleries
+  group: gallery
+  ordering: false
+  can_add: false
+  wysiwyg: false
+  has_images: true
+  has_files: false
+  has_subblock: false
+Document:
+  group: documents
+  ordering: true
+  can_add: true
+  wysiwyg: false
+  has_images: false
+  has_files: true
+  has_subblock: false

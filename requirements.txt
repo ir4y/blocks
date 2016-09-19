@@ -4,3 +4,4 @@ django-ckeditor
 dj-database-url
 Pillow
 psycopg2
+pyyaml
