@@ -1,5 +1,5 @@
 News:
-  verbose_name_plural: Newses
+  verbose_name_plural: News
   group: news
   ordering: false
   can_add: true
